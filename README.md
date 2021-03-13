@@ -1,4 +1,6 @@
 # irccloud.self
+
+**WARNING** There seems to be an issue in passing environmental variables as shown below. Perhaps hardcode the username and password in `irccloud.py` file
 A Self hosted version of the irc cloud script (Meant for people who want to setup stuff on their own)
 
 - Be sure to have `python-dev` installed in your machine.  
